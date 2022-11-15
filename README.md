@@ -12,16 +12,16 @@ The project for the course consists of a prediction task whether news source was
 
 The data consists of original text files for training, and also processed files with some extracted features. You can either use the files with the extracted features, work directly with the text file, and/or modify the feature extraction code.
 
-The following files are provided
+The following files are provided\\
 
-    train_fake.txt, original headlines from questionable sources
-    train_true.txt, original headlines from reuters
-    test.txt, headlines for testing with no labels
-    train_fake_bow.csv, processed headlines from questionable sources
-    train_true_bow.csv, processed headlines from reuters
-    test_bow.csv, processed headlines for testing with no labels
-    preprocess.py, script used to process headlines
-    sample.csv , example of submission file for kaggle
+    train_fake.txt, original headlines from questionable sources \\
+    train_true.txt, original headlines from reuters\\
+    test.txt, headlines for testing with no labels\\
+    train_fake_bow.csv, processed headlines from questionable sources\\
+    train_true_bow.csv, processed headlines from reuters\\
+    test_bow.csv, processed headlines for testing with no labels\\
+    preprocess.py, script used to process headlines\\
+    sample.csv , example of submission file for kaggle\\
 
 #### Competition
 
